@@ -42,9 +42,16 @@ The dashboard transforms raw retail data into meaningful visual insights through
 
 ## Repository Structure
 
-- `Dashboard/` – Power BI dashboard file
-- `Screenshots/` – Dashboard page screenshots
-- `README.md` – Project documentation
+Global-Retail-Intelligence/
+│
+├── Screenshots/
+│   ├── Page1_Global_Overview.png
+│   ├── Page2_Product_Profit_Analysis.png
+│   └── Page3_Customer_Shipping_Insights.png
+│
+├── Global_Retail_Intelligence.pbix
+│
+└── README.md
 
 ## Dataset
 
